@@ -1,5 +1,5 @@
-<h1 align="center">Hi,my name Mohammed (DARK)</h1>
-<h2 align="center">I will give you an introduction about myself</h2>
+<h1 align="center">Hi , my name is Mohammed (DARK)</h1>
+<p align="center">I will give you an introduction about myself</p>
 <h3 align="center">I'am a Penetration Testing Networking And Simple Know Penetration Testing Web , Android</h3>
 
 <h3 align="left">Connect with me:</h3>
