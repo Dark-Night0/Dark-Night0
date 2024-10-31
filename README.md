@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi , my name is Mohammed Khalid (Night0x1)</h1>
+<h3 align="center">I'am a Penetration Testing Networking & Web And Simple Know Mobile Penetration Android</h3>
 
-<!--
-**Dark-Night0/Dark-Night0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Night0&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+### Skills 
+[![My Skills](https://skillicons.dev/icons?i=python,bash,cs,html,js,linux,java,php,docker,cpp,c,mysql,windows,androidstudio&perline=6)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### contact info 
+
+[![My Skills](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/0xdark3)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/0xnight/)
+[![My Skills](https://skillicons.dev/icons?i=fortran&perline=3)](https://www.facebook.com/Night0x1/)
